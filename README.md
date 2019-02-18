@@ -1,9 +1,13 @@
 # CycleGAN
 Intersession 2019- Deep Learning for Medical Image Analysis Class Project
 
+Class Project where CycleGAN was used for skin cell segmentation. 
 
 
-Citations: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+# Citations: 
+
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 @inproceedings{CycleGAN2017, title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss}, author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A}, booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on}, year={2017} }
 
