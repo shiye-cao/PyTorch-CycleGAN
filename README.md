@@ -1,7 +1,7 @@
 # CycleGAN
 Intersession 2019- Deep Learning for Medical Image Analysis Class Project
 
-Class Project where the CycleGAN model was used for skin cell segmentation. 
+Class Project where the PyTorch CycleGAN model was used for skin cell segmentation. 
 
 
 
