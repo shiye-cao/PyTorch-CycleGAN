@@ -5,7 +5,7 @@ Class Project where CycleGAN was used for skin cell segmentation.
 
 
 
-# Citations: 
+# Citation: 
 
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
